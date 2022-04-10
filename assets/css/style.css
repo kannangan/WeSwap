@@ -296,9 +296,9 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 80vh;
+  height: 26vh;
   background: #fff;
-  padding-top: 82px;
+  padding-top: 2px;
 }
 #hero h1 {
   margin: 0;
